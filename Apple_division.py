@@ -1,3 +1,2 @@
-a = 12
+a = 19
 print(a)
-print(a + 3)
